@@ -1,16 +1,16 @@
 [SddmGreeterTheme]
-Name=Maldives
-Description=Maldives Theme
-Author=Abdurrahman AVCI
-Copyright=(c) 2013, Abdurrahman AVCI
+Name=Railgun
+Description=Quake 3 Railgun theme based on Maldives by Abdurrahman AVCI
+Author=zolech aka Xsi
+Copyright=(c) 2016, Xsi
 License=CC-BY-SA
 Type=sddm-theme
 Version=0.1
-Website=https://github.com/sddm/sddm
-Screenshot=maldives.jpg
+Website=https://github.com/zolech/railgun-sddm-theme
+Screenshot=screenshot.jpg
 MainScript=Main.qml
 ConfigFile=theme.conf
 TranslationsDirectory=translations
-Email=abdurrahmanavci@gmail.com
-Theme-Id=maldives
+Email=zolech@gmail.com
+Theme-Id=railgun
 Theme-API=2.0
