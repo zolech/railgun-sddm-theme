@@ -118,6 +118,12 @@ Rectangle {
                         id: password
                         width: parent.width; height: 30
                         font.pixelSize: 14
+			focus: true
+        		Timer { 
+            			interval: 200 
+            			running: true 
+            			onTriggered: password.forceActiveFocus() 
+        		}
 
                         KeyNavigation.backtab: name; KeyNavigation.tab: session
 
