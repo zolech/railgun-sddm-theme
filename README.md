@@ -6,7 +6,8 @@ Based on official SDM theme "maldives".
 Manual Installation
 ------------------------------------
 * Copy "railgun" folder to /usr/share/sddm/themes/ location
-* Change CurrentTheme variable to "railgun" (CurrentTheme=railgun)
+* Change CurrentTheme variable to "railgun" (CurrentTheme=railgun) in /etc/sddm.conf
+* Restart X
 
 Images
 ------------------------------------
