@@ -18,7 +18,7 @@ Gentoo:
 Sabayon:
 
  * Download latest binary package from https://github.com/zolech/railgun-sddm-theme/releases
- * equo install <packagename>.tbz2
+ * equo install railgun-sddm-theme-0.x.tbz2
  * Change current theme variable to "railgun" (Current=railgun) in /etc/sddm.conf
  * Restart X
 
