@@ -3,6 +3,8 @@ Quake 3 railgun style theme for SDDM
 
 Based on official SDM theme "maldives".
 
+![Alt Screenshot](https://raw.githubusercontent.com/zolech/railgun-sddm-theme/master/railgun/screenshot.png "Quake 3 railgun style theme for SDDM")
+
 Manual Installation
 ------------------------------------
 * Copy "railgun" folder to /usr/share/sddm/themes/ location
