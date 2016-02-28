@@ -5,7 +5,7 @@ Based on official SDM theme "maldives".
 
 ![Alt Screenshot](https://raw.githubusercontent.com/zolech/railgun-sddm-theme/master/railgun/screenshot.png "Quake 3 railgun style theme for SDDM")
 
-Intallation
+Installation
 ------------------------------------
 
 Gentoo:
@@ -13,6 +13,7 @@ Gentoo:
  * layman -o https://raw.githubusercontent.com/zolech/gentoo-ebuilds/master/repositories.xml -f -a xsi
  * emerge -av railgun-artwork-sddm
  * Change current theme variable to "railgun" (Current=railgun) in /etc/sddm.conf
+ * Restart X
 
 Sabayon:
 
